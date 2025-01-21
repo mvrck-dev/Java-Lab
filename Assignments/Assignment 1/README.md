@@ -48,10 +48,10 @@ The program is divided into three Java files:
 
 ## Folder Structure
 ```
-JavaCalculator/
-├── src/
+Assignment 1/
 │   ├── Main.java          # Entry point for the program
 │   ├── UserInput.java     # Handles user inputs
 │   ├── Calculator.java    # Contains all the core calculation methods
-├── README.md              # Project documentation (this file)
+│   ├── README.md              # Project documentation (this file)
+├──
 ```
