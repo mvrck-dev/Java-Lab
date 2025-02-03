@@ -63,3 +63,9 @@ The project is divided into four Java files:
 ---
 
 ## Folder Structure
+├── ArrayConverter.java
+├── EvenOddSeparator.java
+├── Main.java
+├── README.md
+└── SmallestDistanceFinder.java
+
